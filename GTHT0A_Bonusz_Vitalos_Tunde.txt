@@ -1,0 +1,20 @@
+Introduction to Transact-SQL 
+https://learn.microsoft.com/api/achievements/share/en-us/VitlosTndeEszter-6563/8ZFHY4PW?sharingId=DE9E18565DCB3478
+
+Sort and filter results in T-SQL 
+https://learn.microsoft.com/api/achievements/share/en-us/VitlosTndeEszter-6563/9YHCNA8U?sharingId=DE9E18565DCB3478
+
+Combine multiple tables with JOINs in T-SQL 
+https://learn.microsoft.com/api/achievements/share/en-us/VitlosTndeEszter-6563/UR89FTR3?sharingId=DE9E18565DCB3478
+
+Write Subqueries in T-SQL 
+https://learn.microsoft.com/api/achievements/share/en-us/VitlosTndeEszter-6563/ZBM744M2?sharingId=DE9E18565DCB3478
+
+Use built-in functions and GROUP BY in Transact-SQL 
+https://learn.microsoft.com/api/achievements/share/en-us/VitlosTndeEszter-6563/NVYWVRNF?sharingId=DE9E18565DCB3478
+
+Modify data with T-SQL 
+https://learn.microsoft.com/api/achievements/share/en-us/VitlosTndeEszter-6563/NVYWV36F?sharingId=DE9E18565DCB3478
+
+Get Started Querying with Transact-SQL 
+https://learn.microsoft.com/api/achievements/share/en-us/VitlosTndeEszter-6563/W2X82U6N?sharingId=DE9E18565DCB3478
