@@ -18,3 +18,4 @@ https://learn.microsoft.com/api/achievements/share/en-us/VitlosTndeEszter-6563/N
 
 Get Started Querying with Transact-SQL 
 https://learn.microsoft.com/api/achievements/share/en-us/VitlosTndeEszter-6563/W2X82U6N?sharingId=DE9E18565DCB3478
+
