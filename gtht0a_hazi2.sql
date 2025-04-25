@@ -14,7 +14,7 @@ CREATE USER MaskUser WITHOUT LOGIN;
 
 GRANT SELECT ON Hazifeladat TO MaskUser;
 
--- GRANT UNMASK TO MaskUser;
+-- GRANT UNMASK TO MaskUser;     Akkor adjuk meg, ha szeretnénk, hogy lássa maszkolás nélkül
 
 EXECUTE AS USER = 'MaskUser';
 SELECT * FROM Hazifeladat;
